@@ -8,5 +8,5 @@ Foi utilizado HTML5, CSS e Javascript.
 
 # Objetivo
 
-Utilizar os conhecimentos do primeiro módulo do curso, com enfaxe em flexbox e responsividade.
+Utilizar os conhecimentos do primeiro módulo do curso, com ênfase em flexbox e responsividade.
 
